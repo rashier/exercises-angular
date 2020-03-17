@@ -1,6 +1,6 @@
 # Angular's Exercises with Typescript
 
-##TYPESCRIPT
+## TYPESCRIPT
 
 - Tipos de Datos.
 - Variables tipo Let y Const.
@@ -9,6 +9,6 @@
   * Obligatorios.
   * Opcionales.
   * Por defecto.
-- Fuciones de Flecha !=>!
+- Fuciones de Flecha ! => !
 - Destructuración de Objetos y Arreglos
   

@@ -9,7 +9,7 @@
   * Obligatorios.
   * Opcionales.
   * Por defecto.
-- Fuciones de Flecha ! => !
+- Fuciones de Flecha **( => )**
 - Destructuración de Objetos y Arreglos
   
 ## Autores ✒️

@@ -12,3 +12,7 @@
 - Fuciones de Flecha ! => !
 - Destructuración de Objetos y Arreglos
   
+## Autores ✒️
+
+* **Cristopher Benavides** - *Trabajo Inicial* 
+* **Cristopher Benavides** - *Documentación* 

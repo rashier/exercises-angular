@@ -1,6 +1,6 @@
-# Angular's Exercises with Typescript
+# ANGULAR'S EXERCISES WITH TYPESCRIPT
 
-## TYPESCRIPT
+## Typescript
 
 - Tipos de Datos.
 - Variables tipo Let y Const.

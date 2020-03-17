@@ -1,1 +1,1 @@
-# exercises-angular
+# Angular's Exercises with Typescript

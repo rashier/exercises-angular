@@ -1,6 +1,6 @@
 # ANGULAR'S EXERCISES WITH TYPESCRIPT
 
-## Typescript💻
+## Typescript 💻
 
 - Tipos de Datos.
   * String.

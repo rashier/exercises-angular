@@ -13,8 +13,10 @@
   * Obligatorios.
   * Opcionales **( nombre_variable?: string )**.
   * Por defecto.
-- Fuciones de Flecha **( => )**
-- Destructuración de Objetos y Arreglos
+- Fuciones de Flecha **( => )**.
+- Destructuración de Objetos y Arreglos.
+- Promesas y tipados.
+- Interfases.
   
 ## Autores ✒️
 
